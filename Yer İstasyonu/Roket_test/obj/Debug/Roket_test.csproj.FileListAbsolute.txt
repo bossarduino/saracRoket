@@ -1,0 +1,256 @@
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Roket_test\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\yunus\source\repos\Roket_test\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\yunus\source\repos\Roket_test\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\yunus\source\repos\Roket_test\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\serial c# arduino\Roket_test\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\yunus\Desktop\roket\serial c# arduino\Roket_test - Kopya - Kopya\Roket_test\obj\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\Roket_test.exe.config
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\EntityFramework.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\GMap.NET.Core.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\Newtonsoft.Json.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\System.Data.SQLite.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\EntityFramework.xml
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\Newtonsoft.Json.xml
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\System.Data.SQLite.xml
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.Form1.resources
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.csproj.CoreCompileInputs.cache
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - son deneme\Roket_test\obj\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\Roket_test.exe.config
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\EntityFramework.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GMap.NET.Core.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\Newtonsoft.Json.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Data.SQLite.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\EntityFramework.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\Newtonsoft.Json.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Data.SQLite.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.Form1.resources
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.csproj.CoreCompileInputs.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\obj\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GeoAPI.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GeoAPI.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\GeoAPI.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.exe.config
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.Core.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.pdb
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.Form1.resources
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csproj.CoreCompileInputs.cache
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.exe
+D:\roket\serial c# arduino\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.pdb
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\GeoAPI.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\ay\Desktop\Roket_test - gönderildi - Kopya\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.pdb
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.pdb
+C:\Users\ay\Desktop\SaraçRoketTakımı -ÇALIŞMALAR-\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.FormServo.resources
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.exe.config
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.exe
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\Roket_test.pdb
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.Core.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.pdb
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\GeoAPI.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csprojAssemblyReference.cache
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.Form1.resources
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.FormServo.resources
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.Properties.Resources.resources
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csproj.GenerateResource.cache
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csproj.CoreCompileInputs.cache
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.csproj.CopyComplete
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.exe
+C:\Users\YAHYA\Desktop\saracrocket-master\Yer İstasyonu\Roket_test\obj\Debug\Roket_test.pdb
